@@ -1,2 +1,6 @@
 ihi
+<<<<<<< Updated upstream
 hgiu
+=======
+swagat
+>>>>>>> Stashed changes
